@@ -9,7 +9,7 @@ Entrega do desafio do processo seletivo do **CITi** (Trilha de Dados), com o cas
 | Planilha (Bronze, Prata, Log e Ouro) | [Abrir no Google Sheets](https://docs.google.com/spreadsheets/d/1C54Vlayeg2_xk7jwSeQyVRR6FTEfMR1Ds6YdUROiHxU/edit?usp=sharing) |
 | Assistente de Dados (Gem do Gemini) | [Abrir o Gem](https://gemini.google.com/gem/1VpBiMJU4VytSj0R8beD6w8T1X8JESdUl?usp=sharing) |
 | Assistente de Manual de Manutenção (Gem do Gemini) | [Abrir o Gem](https://gemini.google.com/gem/1ZwAPNSbUAo8uFLSiguuw629SKusvsoVM?usp=sharing) |
-| Código da Etapa 1 | `Entregavel_CITi.ipynb` (neste repositório) |
+| Código da Etapa 1 | `Tratamento.ipynb` (neste repositório) |
 | Dados em Excel | `Dados_Mezzalira.xlsx` (neste repositório) |
 
 ## Resposta da Etapa 1
@@ -156,7 +156,6 @@ Os prints das respostas do assistente às 8 perguntas estão nesta [pasta no Goo
 ```
 .
 ├── README.md
-├── Entregavel_CITi.ipynb    # código da Etapa 1 (Bronze, Prata, Log e Ouro)
-├── Dados_Mezzalira.xlsx     # dados em Excel (Bronze, Prata, Log, Ouro e extras)
-└── prints/                  # prints dos testes do assistente
+├── Tratamento.ipynb    # código da Etapa 1 (Bronze, Prata, Log e Ouro)
+└── Dados_Mezzalira.xlsx     # dados em Excel (Bronze, Prata, Log, Ouro e extras)
 ```
