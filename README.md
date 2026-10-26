@@ -61,7 +61,7 @@ Além da tabela pedida, eu fiz o faturamento por cidade (com ticket médio e par
 ### Como reproduzir
 
 1. Coloque a planilha original de pedidos na mesma pasta do notebook.
-2. Abra `Entregavel_CITi.ipynb` e execute todas as células em ordem (reiniciar a sessão e executar tudo).
+2. Abra `Tratamento.ipynb` e execute todas as células em ordem (reiniciar a sessão e executar tudo).
 3. O notebook percorre as camadas Bronze, Prata (com o Log) e Ouro, e mostra as tabelas de faturamento.
 
 Dependência: Python com a biblioteca pandas.
